@@ -16,3 +16,14 @@ Ky repository përmban materialet e projektit semestral për lëndën **UX/UI De
 ## 🛠️ Teknologjitë dhe Veglat e Përdorura
 * **Figma** - Për Wireframes dhe Prototipin Interaktiv.
 * **HCI Guidelines** - Për vlerësimin dhe analizën kognitive të përdoruesve.
+
+---
+
+## 🔗 Prototipi Interaktiv në Figma
+Për të parë se si funksionon rrjedha e re e përdoruesit (User Flow) dhe ndryshimet që kemi bërë, mund të hyni në prototipin tonë interaktiv:
+👉 **[Kliko këtu për të hapur Prototipin në Figma](https://www.figma.com/design/PHAjx5n0uZkvyrmXgNnPSg/Libraria-Dukagjini?node-id=0-1&t=zmgI88npDktNqjAx-1)**
+
+## 📂 Përmbajtja e Repos
+Në këtë repository kemi organizuar të gjithë punën dhe fazat e projektit tonë. Këtu mund të gjeni:
+* **Raportet dhe Dokumentacionin:** Raporti i parë (Kickoff Report) dhe fletët e punës së sprintit UX/UI me të gjitha evidencat nga parimet e HCI.
+* **Ekranet si Foto (PNG):** Të gjitha faqet e dizajnuara në Figma (Wireframes dhe UI final) janë të eksportuara si foto **.png** brenda repozitoriumit, duke jua bërë më të lehtë shikimin e shpejtë të ndryshimeve vizuale pa pasur nevojë të hapni vegla të jashtme.
